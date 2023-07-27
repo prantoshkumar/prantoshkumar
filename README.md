@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform**
 
-- 💬 Ask me about **Java, Spring, Spring Boot, MERN, MEAN.**
+- 💬 Ask me about **Java, Spring, Spring Boot, MERN, MEAN, AWS**
 
 - 📫 How to reach me **prantosh11@gmail.com**
 
