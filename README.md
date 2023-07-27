@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Client Project**
+- 🔭 I’m currently working with **Deloitte USI**
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 💬 Ask me about **Java, Spring, Spring Boot, MERN, MEAN.**
 
